@@ -4,8 +4,6 @@
 
 ![Badges](https://img.shields.io/badge/Developer-Full--Stack-blue) ![Badges](https://img.shields.io/badge/Cybersecurity-Passionate-red) ![Badges](https://img.shields.io/badge/Location-Barcelona-ff69b4)
 
-![Profile Banner](https://user-images.githubusercontent.com/xyz/banner.png)
-
 ## 🛠 Sobre Mí
 
 Soy una apasionada por la tecnología que está en constante aprendizaje y experimentación. Me especializo en **desarrollo web** y tengo un gran interés por la **ciberseguridad**. 
