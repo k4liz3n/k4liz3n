@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Lucía 🚀
+# 👋 ¡Hola! 🚀
 
 ## 🛠 Sobre Mí
 Me gusta la tecnología y siempre estoy en constante aprendizaje y experimentación. Me especializo en **desarrollo web** y tengo un gran interés por la **ciberseguridad**.
