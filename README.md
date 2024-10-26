@@ -3,8 +3,6 @@
 ## 🛠 Sobre Mí
 Me gusta la tecnología y siempre estoy en constante aprendizaje y experimentación. Me especializo en **desarrollo web** y tengo un gran interés por la **ciberseguridad**.
 
-Creo que el conocimiento no tiene límites y siempre busco nuevos desafíos. Mi meta es tener mi propia empresa de **ciberseguridad y tecnología**, donde pueda crear soluciones innovadoras y ayudar a otras personas a crecer en este mundo.
-
 ## 🚀 Habilidades
 - **Lenguajes de Programación**: `JavaScript`, `Python`
 - **Lenguajes de Marcado y Estilo**: `HTML`, `CSS`
