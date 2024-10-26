@@ -1,14 +1,14 @@
 # 👋 ¡Hola! 🚀
 
-**Desarrolladora web y entusiasta de la ciberseguridad**
+**Desarrolladora web y Interesada de la ciberseguridad**
 
 ![Badges](https://img.shields.io/badge/Developer-Full--Stack-blue) ![Badges](https://img.shields.io/badge/Cybersecurity-Passionate-red) ![Badges](https://img.shields.io/badge/Location-Barcelona-ff69b4)
 
 ## 🛠 Sobre Mí
 
-Soy una apasionada por la tecnología que está en constante aprendizaje y experimentación. Me especializo en **desarrollo web** y tengo un gran interés por la **ciberseguridad**. 
+Me gusta la tecnología que está en constante aprendizaje y experimentación. Me especializo en **desarrollo web** y tengo un gran interés por la **ciberseguridad**. 
 
-Creo que el **conocimiento no tiene límites** y siempre estoy buscando nuevos desafíos. Mi meta es tener mi propia **empresa de ciberseguridad** y tecnología, donde pueda crear soluciones innovadoras y ayudar a otras personas a crecer en este apasionante mundo.
+Creo que el **conocimiento no tiene límites** y siempre estoy buscando nuevos desafíos. Mi meta es tener mi propia **empresa de ciberseguridad** y tecnología, donde pueda crear soluciones innovadoras y ayudar a otras personas a crecer en este mundo.
 
 ## 🚀 Habilidades
 
